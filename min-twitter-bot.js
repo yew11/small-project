@@ -40,7 +40,7 @@ function followed(event) {
 }
 // How to POST on twitter
 
- //tweetIt();
+ tweetIt();
  //setInterval(tweetIt, 1000*20); 
 
  function tweetIt(txt) {
